@@ -1,0 +1,1 @@
+Le fichier **Application.java** contient la classe Main où se trouve la méthode principale.
